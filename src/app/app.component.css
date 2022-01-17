@@ -1,0 +1,12 @@
+.card-body {
+  background: #9b59b6;
+}
+
+.form-control {
+  background: #77259aa1;
+}
+
+.cardContent {
+  display: flex;
+  align-items: center;
+}
